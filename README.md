@@ -1,2 +1,2 @@
-# Advanced_AI_Project
-An image classifier system based on Tensorflow and Keras
+Upload Samples and Train Dataset folders in google drive
+Run AI_Project.ipynb on Googla Colab
