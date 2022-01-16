@@ -1,3 +1,3 @@
-Upload Samples and Train Dataset folders in google drive
+Upload Samples and Train Dataset folders on google drive
 
-Run AI_Project.ipynb on Googla Colab
+Run AI_Project.ipynb on Google Colab
